@@ -1,0 +1,26 @@
+.link1{
+    color: blue;
+}
+.tanggal{
+    color: blue;
+}
+.foto1{
+    width: 100px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.author-info{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.author-text{
+    flex: 1;
+}
+figure{
+    margin: 0;
+}
